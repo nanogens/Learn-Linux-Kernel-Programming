@@ -1,0 +1,1 @@
+cmd_/home/nanogens/Linux_Device_Drivers/Lec6/mt_moduleCombined.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/nanogens/Linux_Device_Drivers/Lec6/mt_moduleCombined.ko /home/nanogens/Linux_Device_Drivers/Lec6/mt_moduleCombined.o /home/nanogens/Linux_Device_Drivers/Lec6/mt_moduleCombined.mod.o;  true

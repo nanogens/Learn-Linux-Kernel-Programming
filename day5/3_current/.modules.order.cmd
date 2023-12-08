@@ -1,0 +1,1 @@
+cmd_/home/nanogens/MT_Linux_Device_Drivers/day5/3_current/modules.order := {   echo /home/nanogens/MT_Linux_Device_Drivers/day5/3_current/current.o; :; } > /home/nanogens/MT_Linux_Device_Drivers/day5/3_current/modules.order

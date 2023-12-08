@@ -1,0 +1,1 @@
+cmd_/home/nanogens/MT_Linux_Device_Drivers/day4/5_printk/modules.order := {   echo /home/nanogens/MT_Linux_Device_Drivers/day4/5_printk/hello.o; :; } > /home/nanogens/MT_Linux_Device_Drivers/day4/5_printk/modules.order

@@ -1,0 +1,1 @@
+cmd_/home/nanogens/MT_Linux_Device_Drivers/day2/6_module_stacking/modules.order := {   echo /home/nanogens/MT_Linux_Device_Drivers/day2/6_module_stacking/module2.o;   echo /home/nanogens/MT_Linux_Device_Drivers/day2/6_module_stacking/module1.o; :; } > /home/nanogens/MT_Linux_Device_Drivers/day2/6_module_stacking/modules.order

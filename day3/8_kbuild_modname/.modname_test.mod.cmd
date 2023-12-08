@@ -1,0 +1,1 @@
+cmd_/home/nanogens/MT_Linux_Device_Drivers/day3/8_kbuild_modname/modname_test.mod := printf '%s\n'   modname_test.o | awk '!x[$$0]++ { print("/home/nanogens/MT_Linux_Device_Drivers/day3/8_kbuild_modname/"$$0) }' > /home/nanogens/MT_Linux_Device_Drivers/day3/8_kbuild_modname/modname_test.mod

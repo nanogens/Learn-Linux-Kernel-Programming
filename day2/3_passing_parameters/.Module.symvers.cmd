@@ -1,0 +1,1 @@
+cmd_/home/nanogens/MT_Linux_Device_Drivers/day2/3_passing_parameters/Module.symvers :=  scripts/mod/modpost -m -a     -o /home/nanogens/MT_Linux_Device_Drivers/day2/3_passing_parameters/Module.symvers -T /home/nanogens/MT_Linux_Device_Drivers/day2/3_passing_parameters/modules.order -i Module.symvers -e 

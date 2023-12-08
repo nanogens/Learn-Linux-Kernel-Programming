@@ -1,0 +1,1 @@
+cmd_/home/nanogens/Linux_Device_Drivers/Lec6/mt_moduleCombined.mod := printf '%s\n'   mt_module.o | awk '!x[$$0]++ { print("/home/nanogens/Linux_Device_Drivers/Lec6/"$$0) }' > /home/nanogens/Linux_Device_Drivers/Lec6/mt_moduleCombined.mod

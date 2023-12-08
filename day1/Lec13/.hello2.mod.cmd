@@ -1,0 +1,1 @@
+cmd_/home/nanogens/MT_Linux_Device_Drivers/Lec13/hello2.mod := printf '%s\n'   hello2.o | awk '!x[$$0]++ { print("/home/nanogens/MT_Linux_Device_Drivers/Lec13/"$$0) }' > /home/nanogens/MT_Linux_Device_Drivers/Lec13/hello2.mod

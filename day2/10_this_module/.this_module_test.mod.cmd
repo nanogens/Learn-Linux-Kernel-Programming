@@ -1,0 +1,1 @@
+cmd_/home/nanogens/MT_Linux_Device_Drivers/day2/10_this_module/this_module_test.mod := printf '%s\n'   this_module_test.o | awk '!x[$$0]++ { print("/home/nanogens/MT_Linux_Device_Drivers/day2/10_this_module/"$$0) }' > /home/nanogens/MT_Linux_Device_Drivers/day2/10_this_module/this_module_test.mod

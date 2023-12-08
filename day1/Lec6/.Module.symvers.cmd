@@ -1,0 +1,1 @@
+cmd_/home/nanogens/Linux_Device_Drivers/Lec6/Module.symvers :=  scripts/mod/modpost -m -a     -o /home/nanogens/Linux_Device_Drivers/Lec6/Module.symvers -T /home/nanogens/Linux_Device_Drivers/Lec6/modules.order -i Module.symvers -e 

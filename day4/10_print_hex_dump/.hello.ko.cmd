@@ -1,0 +1,1 @@
+cmd_/home/nanogens/MT_Linux_Device_Drivers/day4/10_print_hex_dump/hello.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/nanogens/MT_Linux_Device_Drivers/day4/10_print_hex_dump/hello.ko /home/nanogens/MT_Linux_Device_Drivers/day4/10_print_hex_dump/hello.o /home/nanogens/MT_Linux_Device_Drivers/day4/10_print_hex_dump/hello.mod.o;  true

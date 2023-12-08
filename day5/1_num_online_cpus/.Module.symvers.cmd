@@ -1,0 +1,1 @@
+cmd_/home/nanogens/MT_Linux_Device_Drivers/day5/1_num_online_cpus/Module.symvers :=  scripts/mod/modpost -m -a     -o /home/nanogens/MT_Linux_Device_Drivers/day5/1_num_online_cpus/Module.symvers -T /home/nanogens/MT_Linux_Device_Drivers/day5/1_num_online_cpus/modules.order -i Module.symvers -e 

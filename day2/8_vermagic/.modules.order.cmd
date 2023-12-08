@@ -1,0 +1,1 @@
+cmd_/home/nanogens/MT_Linux_Device_Drivers/day2/8_vermagic/modules.order := {   echo /home/nanogens/MT_Linux_Device_Drivers/day2/8_vermagic/vermagic.o;   echo /home/nanogens/MT_Linux_Device_Drivers/day2/8_vermagic/vermagic1.o; :; } > /home/nanogens/MT_Linux_Device_Drivers/day2/8_vermagic/modules.order

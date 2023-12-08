@@ -1,0 +1,1 @@
+cmd_/home/nanogens/MT_Linux_Device_Drivers/day2/5_linux_symbol_table/symbol_export.mod := printf '%s\n'   symbol_export.o | awk '!x[$$0]++ { print("/home/nanogens/MT_Linux_Device_Drivers/day2/5_linux_symbol_table/"$$0) }' > /home/nanogens/MT_Linux_Device_Drivers/day2/5_linux_symbol_table/symbol_export.mod

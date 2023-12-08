@@ -1,0 +1,1 @@
+cmd_/home/nanogens/MT_Linux_Device_Drivers/day3/8_kbuild_modname/Module.symvers :=  scripts/mod/modpost -m -a     -o /home/nanogens/MT_Linux_Device_Drivers/day3/8_kbuild_modname/Module.symvers -T /home/nanogens/MT_Linux_Device_Drivers/day3/8_kbuild_modname/modules.order -i Module.symvers -e 

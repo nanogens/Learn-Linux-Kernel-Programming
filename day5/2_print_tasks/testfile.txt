@@ -1,0 +1,290 @@
+[ 4413.729750] test_tasks_init: In init
+[ 4413.729754] Process: systemd	 PID:[1]	 State:TASK_INTERRUPTIBLE
+[ 4413.729756] Process: kthreadd	 PID:[2]	 State:TASK_INTERRUPTIBLE
+[ 4413.729758] Process: rcu_gp	 PID:[3]	 State:Unknown Type:1026
+
+[ 4413.729760] Process: rcu_par_gp	 PID:[4]	 State:Unknown Type:1026
+
+[ 4413.729787] Process: slub_flushwq	 PID:[5]	 State:Unknown Type:1026
+
+[ 4413.729810] Process: netns	 PID:[6]	 State:Unknown Type:1026
+
+[ 4413.729812] Process: kworker/0:0H	 PID:[8]	 State:Unknown Type:1026
+
+[ 4413.729813] Process: mm_percpu_wq	 PID:[10]	 State:Unknown Type:1026
+
+[ 4413.729815] Process: rcu_tasks_kthre	 PID:[11]	 State:Unknown Type:1026
+
+[ 4413.729816] Process: rcu_tasks_rude_	 PID:[12]	 State:Unknown Type:1026
+
+[ 4413.729817] Process: rcu_tasks_trace	 PID:[13]	 State:Unknown Type:1026
+
+[ 4413.729819] Process: ksoftirqd/0	 PID:[14]	 State:TASK_INTERRUPTIBLE
+[ 4413.729820] Process: rcu_preempt	 PID:[15]	 State:Unknown Type:1026
+
+[ 4413.729821] Process: migration/0	 PID:[16]	 State:TASK_INTERRUPTIBLE
+[ 4413.729822] Process: idle_inject/0	 PID:[17]	 State:TASK_INTERRUPTIBLE
+[ 4413.729823] Process: cpuhp/0	 PID:[19]	 State:TASK_INTERRUPTIBLE
+[ 4413.729825] Process: cpuhp/1	 PID:[20]	 State:TASK_INTERRUPTIBLE
+[ 4413.729826] Process: idle_inject/1	 PID:[21]	 State:TASK_INTERRUPTIBLE
+[ 4413.729827] Process: migration/1	 PID:[22]	 State:TASK_INTERRUPTIBLE
+[ 4413.729829] Process: ksoftirqd/1	 PID:[23]	 State:TASK_INTERRUPTIBLE
+[ 4413.729831] Process: kworker/1:0H	 PID:[25]	 State:Unknown Type:1026
+
+[ 4413.729832] Process: cpuhp/2	 PID:[26]	 State:TASK_INTERRUPTIBLE
+[ 4413.729834] Process: idle_inject/2	 PID:[27]	 State:TASK_INTERRUPTIBLE
+[ 4413.729835] Process: migration/2	 PID:[28]	 State:TASK_INTERRUPTIBLE
+[ 4413.729836] Process: ksoftirqd/2	 PID:[29]	 State:TASK_INTERRUPTIBLE
+[ 4413.729838] Process: kworker/2:0H	 PID:[31]	 State:Unknown Type:1026
+
+[ 4413.729839] Process: cpuhp/3	 PID:[32]	 State:TASK_INTERRUPTIBLE
+[ 4413.729840] Process: idle_inject/3	 PID:[33]	 State:TASK_INTERRUPTIBLE
+[ 4413.729841] Process: migration/3	 PID:[34]	 State:TASK_INTERRUPTIBLE
+[ 4413.729843] Process: ksoftirqd/3	 PID:[35]	 State:TASK_INTERRUPTIBLE
+[ 4413.729844] Process: kworker/3:0H	 PID:[37]	 State:Unknown Type:1026
+
+[ 4413.729845] Process: kdevtmpfs	 PID:[38]	 State:TASK_INTERRUPTIBLE
+[ 4413.729847] Process: inet_frag_wq	 PID:[39]	 State:Unknown Type:1026
+
+[ 4413.729848] Process: kauditd	 PID:[40]	 State:Unknown Type:8193
+
+[ 4413.729850] Process: khungtaskd	 PID:[41]	 State:TASK_INTERRUPTIBLE
+[ 4413.729880] Process: oom_reaper	 PID:[43]	 State:Unknown Type:8193
+
+[ 4413.729881] Process: writeback	 PID:[45]	 State:Unknown Type:1026
+
+[ 4413.729882] Process: kcompactd0	 PID:[46]	 State:Unknown Type:8193
+
+[ 4413.729884] Process: ksmd	 PID:[47]	 State:Unknown Type:8193
+
+[ 4413.729885] Process: khugepaged	 PID:[48]	 State:Unknown Type:8193
+
+[ 4413.729886] Process: kintegrityd	 PID:[49]	 State:Unknown Type:1026
+
+[ 4413.729888] Process: kblockd	 PID:[50]	 State:Unknown Type:1026
+
+[ 4413.729889] Process: blkcg_punt_bio	 PID:[51]	 State:Unknown Type:1026
+
+[ 4413.729890] Process: tpm_dev_wq	 PID:[52]	 State:Unknown Type:1026
+
+[ 4413.729891] Process: ata_sff	 PID:[53]	 State:Unknown Type:1026
+
+[ 4413.729893] Process: md	 PID:[54]	 State:Unknown Type:1026
+
+[ 4413.729894] Process: edac-poller	 PID:[55]	 State:Unknown Type:1026
+
+[ 4413.729895] Process: devfreq_wq	 PID:[56]	 State:Unknown Type:1026
+
+[ 4413.729896] Process: watchdogd	 PID:[57]	 State:TASK_INTERRUPTIBLE
+[ 4413.729898] Process: kworker/0:1H	 PID:[58]	 State:Unknown Type:1026
+
+[ 4413.729899] Process: kswapd0	 PID:[59]	 State:TASK_INTERRUPTIBLE
+[ 4413.729900] Process: ecryptfs-kthrea	 PID:[60]	 State:Unknown Type:8193
+
+[ 4413.729901] Process: kthrotld	 PID:[62]	 State:Unknown Type:1026
+
+[ 4413.729903] Process: acpi_thermal_pm	 PID:[63]	 State:Unknown Type:1026
+
+[ 4413.729904] Process: xenbus_probe	 PID:[64]	 State:TASK_INTERRUPTIBLE
+[ 4413.729905] Process: scsi_eh_0	 PID:[66]	 State:TASK_INTERRUPTIBLE
+[ 4413.729906] Process: scsi_tmf_0	 PID:[67]	 State:Unknown Type:1026
+
+[ 4413.729907] Process: scsi_eh_1	 PID:[68]	 State:TASK_INTERRUPTIBLE
+[ 4413.729909] Process: scsi_tmf_1	 PID:[69]	 State:Unknown Type:1026
+
+[ 4413.729910] Process: mld	 PID:[71]	 State:Unknown Type:1026
+
+[ 4413.729911] Process: ipv6_addrconf	 PID:[73]	 State:Unknown Type:1026
+
+[ 4413.729913] Process: kstrp	 PID:[81]	 State:Unknown Type:1026
+
+[ 4413.729914] Process: zswap-shrink	 PID:[83]	 State:Unknown Type:1026
+
+[ 4413.729940] Process: kworker/u9:0	 PID:[84]	 State:Unknown Type:1026
+
+[ 4413.729942] Process: charger_manager	 PID:[88]	 State:Unknown Type:1026
+
+[ 4413.729943] Process: kworker/2:1H	 PID:[108]	 State:Unknown Type:1026
+
+[ 4413.729944] Process: kworker/1:1H	 PID:[111]	 State:Unknown Type:1026
+
+[ 4413.729946] Process: kworker/3:1H	 PID:[112]	 State:Unknown Type:1026
+
+[ 4413.729947] Process: scsi_eh_2	 PID:[132]	 State:TASK_INTERRUPTIBLE
+[ 4413.729948] Process: scsi_tmf_2	 PID:[133]	 State:Unknown Type:1026
+
+[ 4413.729950] Process: jbd2/sda3-8	 PID:[167]	 State:TASK_INTERRUPTIBLE
+[ 4413.729951] Process: ext4-rsv-conver	 PID:[168]	 State:Unknown Type:1026
+
+[ 4413.729953] Process: systemd-journal	 PID:[207]	 State:TASK_INTERRUPTIBLE
+[ 4413.729954] Process: systemd-udevd	 PID:[239]	 State:TASK_INTERRUPTIBLE
+[ 4413.729955] Process: iprt-VBoxWQueue	 PID:[280]	 State:Unknown Type:1026
+
+[ 4413.729957] Process: cryptd	 PID:[302]	 State:Unknown Type:1026
+
+[ 4413.729958] Process: irq/18-vmwgfx	 PID:[306]	 State:TASK_INTERRUPTIBLE
+[ 4413.729959] Process: systemd-oomd	 PID:[437]	 State:TASK_INTERRUPTIBLE
+[ 4413.729960] Process: systemd-resolve	 PID:[441]	 State:TASK_INTERRUPTIBLE
+[ 4413.729961] Process: kworker/3:4	 PID:[459]	 State:Unknown Type:1026
+
+[ 4413.729963] Process: systemd-timesyn	 PID:[483]	 State:TASK_INTERRUPTIBLE
+[ 4413.729988] Process: accounts-daemon	 PID:[573]	 State:TASK_INTERRUPTIBLE
+[ 4413.729990] Process: acpid	 PID:[574]	 State:TASK_INTERRUPTIBLE
+[ 4413.729991] Process: avahi-daemon	 PID:[578]	 State:TASK_INTERRUPTIBLE
+[ 4413.729992] Process: cron	 PID:[579]	 State:Unknown Type:8193
+
+[ 4413.729993] Process: dbus-daemon	 PID:[581]	 State:TASK_INTERRUPTIBLE
+[ 4413.729994] Process: NetworkManager	 PID:[584]	 State:TASK_INTERRUPTIBLE
+[ 4413.729995] Process: irqbalance	 PID:[595]	 State:TASK_INTERRUPTIBLE
+[ 4413.729996] Process: networkd-dispat	 PID:[596]	 State:TASK_INTERRUPTIBLE
+[ 4413.729998] Process: polkitd	 PID:[597]	 State:TASK_INTERRUPTIBLE
+[ 4413.729999] Process: power-profiles-	 PID:[598]	 State:TASK_INTERRUPTIBLE
+[ 4413.730000] Process: rsyslogd	 PID:[599]	 State:TASK_INTERRUPTIBLE
+[ 4413.730001] Process: snapd	 PID:[601]	 State:Unknown Type:8193
+
+[ 4413.730002] Process: switcheroo-cont	 PID:[602]	 State:TASK_INTERRUPTIBLE
+[ 4413.730004] Process: systemd-logind	 PID:[607]	 State:TASK_INTERRUPTIBLE
+[ 4413.730005] Process: udisksd	 PID:[611]	 State:TASK_INTERRUPTIBLE
+[ 4413.730006] Process: wpa_supplicant	 PID:[614]	 State:TASK_INTERRUPTIBLE
+[ 4413.730007] Process: avahi-daemon	 PID:[625]	 State:Unknown Type:8193
+
+[ 4413.730008] Process: ModemManager	 PID:[664]	 State:TASK_INTERRUPTIBLE
+[ 4413.730009] Process: cupsd	 PID:[686]	 State:TASK_INTERRUPTIBLE
+[ 4413.730010] Process: unattended-upgr	 PID:[711]	 State:TASK_INTERRUPTIBLE
+[ 4413.730012] Process: dbus	 PID:[712]	 State:TASK_INTERRUPTIBLE
+[ 4413.730013] Process: cups-browsed	 PID:[769]	 State:TASK_INTERRUPTIBLE
+[ 4413.730014] Process: kerneloops	 PID:[784]	 State:TASK_INTERRUPTIBLE
+[ 4413.730015] Process: kerneloops	 PID:[794]	 State:TASK_INTERRUPTIBLE
+[ 4413.730016] Process: VBoxDRMClient	 PID:[1075]	 State:TASK_INTERRUPTIBLE
+[ 4413.730017] Process: VBoxService	 PID:[1078]	 State:Unknown Type:8193
+
+[ 4413.730019] Process: gdm3	 PID:[1087]	 State:TASK_INTERRUPTIBLE
+[ 4413.730020] Process: rtkit-daemon	 PID:[1143]	 State:TASK_INTERRUPTIBLE
+[ 4413.730021] Process: upowerd	 PID:[1301]	 State:TASK_INTERRUPTIBLE
+[ 4413.730023] Process: packagekitd	 PID:[1323]	 State:TASK_INTERRUPTIBLE
+[ 4413.730024] Process: colord	 PID:[1478]	 State:TASK_INTERRUPTIBLE
+[ 4413.730025] Process: gdm-session-wor	 PID:[1542]	 State:TASK_INTERRUPTIBLE
+[ 4413.730026] Process: systemd	 PID:[1551]	 State:TASK_INTERRUPTIBLE
+[ 4413.730028] Process: (sd-pam)	 PID:[1552]	 State:Unknown Type:8193
+
+[ 4413.730029] Process: pipewire	 PID:[1558]	 State:TASK_INTERRUPTIBLE
+[ 4413.730030] Process: pipewire-media-	 PID:[1559]	 State:TASK_INTERRUPTIBLE
+[ 4413.730032] Process: pulseaudio	 PID:[1560]	 State:TASK_INTERRUPTIBLE
+[ 4413.730033] Process: snapd-desktop-i	 PID:[1561]	 State:TASK_INTERRUPTIBLE
+[ 4413.730058] Process: dbus-daemon	 PID:[1571]	 State:TASK_INTERRUPTIBLE
+[ 4413.730060] Process: gnome-keyring-d	 PID:[1573]	 State:TASK_INTERRUPTIBLE
+[ 4413.730061] Process: gvfsd	 PID:[1582]	 State:TASK_INTERRUPTIBLE
+[ 4413.730062] Process: gvfsd-fuse	 PID:[1587]	 State:Unknown Type:8193
+
+[ 4413.730063] Process: gdm-wayland-ses	 PID:[1596]	 State:TASK_INTERRUPTIBLE
+[ 4413.730065] Process: gnome-session-b	 PID:[1604]	 State:TASK_INTERRUPTIBLE
+[ 4413.730066] Process: xdg-document-po	 PID:[1615]	 State:TASK_INTERRUPTIBLE
+[ 4413.730067] Process: xdg-permission-	 PID:[1619]	 State:TASK_INTERRUPTIBLE
+[ 4413.730068] Process: fusermount3	 PID:[1635]	 State:Unknown Type:8193
+
+[ 4413.730093] Process: tracker-miner-f	 PID:[1641]	 State:TASK_INTERRUPTIBLE
+[ 4413.730118] Process: gnome-session-c	 PID:[1674]	 State:TASK_INTERRUPTIBLE
+[ 4413.730120] Process: gnome-session-b	 PID:[1688]	 State:TASK_INTERRUPTIBLE
+[ 4413.730121] Process: at-spi-bus-laun	 PID:[1712]	 State:TASK_INTERRUPTIBLE
+[ 4413.730122] Process: gnome-shell	 PID:[1713]	 State:Unknown Type:8193
+
+[ 4413.730123] Process: dbus-daemon	 PID:[1721]	 State:TASK_INTERRUPTIBLE
+[ 4413.730124] Process: gvfs-udisks2-vo	 PID:[1738]	 State:TASK_INTERRUPTIBLE
+[ 4413.730125] Process: gvfs-gphoto2-vo	 PID:[1758]	 State:TASK_INTERRUPTIBLE
+[ 4413.730126] Process: gvfs-goa-volume	 PID:[1762]	 State:TASK_INTERRUPTIBLE
+[ 4413.730127] Process: goa-daemon	 PID:[1771]	 State:TASK_INTERRUPTIBLE
+[ 4413.730129] Process: goa-identity-se	 PID:[1788]	 State:TASK_INTERRUPTIBLE
+[ 4413.730130] Process: gvfs-afc-volume	 PID:[1801]	 State:TASK_INTERRUPTIBLE
+[ 4413.730131] Process: gvfs-mtp-volume	 PID:[1811]	 State:TASK_INTERRUPTIBLE
+[ 4413.730132] Process: gnome-shell-cal	 PID:[1831]	 State:TASK_INTERRUPTIBLE
+[ 4413.730133] Process: evolution-sourc	 PID:[1838]	 State:TASK_INTERRUPTIBLE
+[ 4413.730134] Process: snapd-desktop-i	 PID:[1844]	 State:TASK_INTERRUPTIBLE
+[ 4413.730136] Process: evolution-calen	 PID:[1847]	 State:TASK_INTERRUPTIBLE
+[ 4413.730137] Process: xdg-desktop-por	 PID:[1853]	 State:TASK_INTERRUPTIBLE
+[ 4413.730138] Process: xdg-desktop-por	 PID:[1857]	 State:TASK_INTERRUPTIBLE
+[ 4413.730139] Process: dconf-service	 PID:[1864]	 State:TASK_INTERRUPTIBLE
+[ 4413.730140] Process: evolution-addre	 PID:[1871]	 State:TASK_INTERRUPTIBLE
+[ 4413.730141] Process: gvfsd-trash	 PID:[1881]	 State:TASK_INTERRUPTIBLE
+[ 4413.730142] Process: gjs	 PID:[1900]	 State:TASK_INTERRUPTIBLE
+[ 4413.730143] Process: at-spi2-registr	 PID:[1901]	 State:TASK_INTERRUPTIBLE
+[ 4413.730145] Process: sh	 PID:[1913]	 State:TASK_INTERRUPTIBLE
+[ 4413.730146] Process: gsd-a11y-settin	 PID:[1914]	 State:TASK_INTERRUPTIBLE
+[ 4413.730147] Process: ibus-daemon	 PID:[1916]	 State:TASK_INTERRUPTIBLE
+[ 4413.730148] Process: gsd-color	 PID:[1921]	 State:TASK_INTERRUPTIBLE
+[ 4413.730150] Process: gsd-datetime	 PID:[1922]	 State:TASK_INTERRUPTIBLE
+[ 4413.730151] Process: gsd-housekeepin	 PID:[1924]	 State:TASK_INTERRUPTIBLE
+[ 4413.730152] Process: gsd-keyboard	 PID:[1925]	 State:TASK_INTERRUPTIBLE
+[ 4413.730153] Process: gsd-media-keys	 PID:[1930]	 State:TASK_INTERRUPTIBLE
+[ 4413.730154] Process: gsd-power	 PID:[1940]	 State:TASK_INTERRUPTIBLE
+[ 4413.730155] Process: gsd-print-notif	 PID:[1941]	 State:TASK_INTERRUPTIBLE
+[ 4413.730156] Process: gsd-rfkill	 PID:[1942]	 State:TASK_INTERRUPTIBLE
+[ 4413.730157] Process: gsd-screensaver	 PID:[1946]	 State:TASK_INTERRUPTIBLE
+[ 4413.730159] Process: gsd-sharing	 PID:[1950]	 State:TASK_INTERRUPTIBLE
+[ 4413.730160] Process: gsd-smartcard	 PID:[1955]	 State:TASK_INTERRUPTIBLE
+[ 4413.730161] Process: gsd-sound	 PID:[1960]	 State:TASK_INTERRUPTIBLE
+[ 4413.730162] Process: gsd-wacom	 PID:[1964]	 State:TASK_INTERRUPTIBLE
+[ 4413.730163] Process: ibus-dconf	 PID:[1987]	 State:TASK_INTERRUPTIBLE
+[ 4413.730164] Process: ibus-extension-	 PID:[1989]	 State:TASK_INTERRUPTIBLE
+[ 4413.730165] Process: evolution-alarm	 PID:[1997]	 State:TASK_INTERRUPTIBLE
+[ 4413.730167] Process: ibus-portal	 PID:[1999]	 State:TASK_INTERRUPTIBLE
+[ 4413.730168] Process: gsd-disk-utilit	 PID:[2020]	 State:TASK_INTERRUPTIBLE
+[ 4413.730194] Process: VBoxClient	 PID:[2044]	 State:TASK_INTERRUPTIBLE
+[ 4413.730219] Process: VBoxClient	 PID:[2045]	 State:Unknown Type:8193
+
+[ 4413.730221] Process: gsd-printer	 PID:[2056]	 State:TASK_INTERRUPTIBLE
+[ 4413.730222] Process: Xwayland	 PID:[2060]	 State:TASK_INTERRUPTIBLE
+[ 4413.730223] Process: snap-store	 PID:[2099]	 State:TASK_INTERRUPTIBLE
+[ 4413.730224] Process: ibus-engine-sim	 PID:[2163]	 State:TASK_INTERRUPTIBLE
+[ 4413.730225] Process: gvfsd-metadata	 PID:[2169]	 State:TASK_INTERRUPTIBLE
+[ 4413.730226] Process: xdg-desktop-por	 PID:[2233]	 State:TASK_INTERRUPTIBLE
+[ 4413.730227] Process: gsd-xsettings	 PID:[2278]	 State:TASK_INTERRUPTIBLE
+[ 4413.730228] Process: gjs	 PID:[2282]	 State:TASK_INTERRUPTIBLE
+[ 4413.730229] Process: gjs	 PID:[2302]	 State:TASK_INTERRUPTIBLE
+[ 4413.730231] Process: ibus-x11	 PID:[2330]	 State:TASK_INTERRUPTIBLE
+[ 4413.730232] Process: VBoxClient	 PID:[2375]	 State:TASK_INTERRUPTIBLE
+[ 4413.730233] Process: VBoxClient	 PID:[2376]	 State:Unknown Type:8193
+
+[ 4413.730234] Process: VBoxClient	 PID:[2384]	 State:TASK_INTERRUPTIBLE
+[ 4413.730235] Process: VBoxClient	 PID:[2386]	 State:Unknown Type:8193
+
+[ 4413.730236] Process: VBoxClient	 PID:[2390]	 State:TASK_INTERRUPTIBLE
+[ 4413.730238] Process: VBoxClient	 PID:[2391]	 State:Unknown Type:8193
+
+[ 4413.730239] Process: fwupd	 PID:[2451]	 State:TASK_INTERRUPTIBLE
+[ 4413.730240] Process: gnome-terminal-	 PID:[2524]	 State:TASK_INTERRUPTIBLE
+[ 4413.730241] Process: bash	 PID:[2542]	 State:TASK_INTERRUPTIBLE
+[ 4413.730242] Process: update-notifier	 PID:[3366]	 State:TASK_INTERRUPTIBLE
+[ 4413.730244] Process: kworker/2:1	 PID:[3913]	 State:Unknown Type:1026
+
+[ 4413.730245] Process: nautilus	 PID:[4010]	 State:TASK_INTERRUPTIBLE
+[ 4413.730246] Process: kworker/0:0	 PID:[4037]	 State:Unknown Type:1026
+
+[ 4413.730247] Process: gvfsd-network	 PID:[4052]	 State:TASK_INTERRUPTIBLE
+[ 4413.730248] Process: gvfsd-dnssd	 PID:[4069]	 State:TASK_INTERRUPTIBLE
+[ 4413.730249] Process: kworker/u8:0	 PID:[4186]	 State:Unknown Type:1026
+
+[ 4413.730251] Process: sudo	 PID:[4206]	 State:Unknown Type:260
+
+[ 4413.730252] Process: sudo	 PID:[4207]	 State:TASK_INTERRUPTIBLE
+[ 4413.730275] Process: find	 PID:[4208]	 State:Unknown Type:260
+
+[ 4413.730278] Process: gnome-calendar	 PID:[4330]	 State:TASK_INTERRUPTIBLE
+[ 4413.730279] Process: kworker/0:3	 PID:[4485]	 State:Unknown Type:1026
+
+[ 4413.730280] Process: gedit	 PID:[4570]	 State:TASK_INTERRUPTIBLE
+[ 4413.730282] Process: kworker/1:1	 PID:[4639]	 State:Unknown Type:1026
+
+[ 4413.730283] Process: kworker/3:0	 PID:[4640]	 State:Unknown Type:1026
+
+[ 4413.730284] Process: kworker/u8:3	 PID:[4724]	 State:Unknown Type:1026
+
+[ 4413.730286] Process: kworker/2:0	 PID:[4955]	 State:Unknown Type:1026
+
+[ 4413.730287] Process: kworker/1:0	 PID:[4956]	 State:Unknown Type:1026
+
+[ 4413.730288] Process: kworker/u8:1	 PID:[5328]	 State:Unknown Type:1026
+
+[ 4413.730289] Process: sudo	 PID:[5335]	 State:TASK_INTERRUPTIBLE
+[ 4413.730291] Process: sudo	 PID:[5336]	 State:TASK_INTERRUPTIBLE
+[ 4413.730291] Process: insmod	 PID:[5337]	 State:TASK_RUNNING
+[ 4413.730292] Number of processes:216

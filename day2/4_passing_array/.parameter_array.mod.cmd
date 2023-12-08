@@ -1,0 +1,1 @@
+cmd_/home/nanogens/MT_Linux_Device_Drivers/day2/4_passing_array/parameter_array.mod := printf '%s\n'   parameter_array.o | awk '!x[$$0]++ { print("/home/nanogens/MT_Linux_Device_Drivers/day2/4_passing_array/"$$0) }' > /home/nanogens/MT_Linux_Device_Drivers/day2/4_passing_array/parameter_array.mod

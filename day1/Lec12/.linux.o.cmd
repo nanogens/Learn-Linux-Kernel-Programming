@@ -1,0 +1,1 @@
+cmd_/home/nanogens/MT_Linux_Device_Drivers/Lec12/linux.o := ld -m elf_x86_64 -z noexecstack   -r -o /home/nanogens/MT_Linux_Device_Drivers/Lec12/linux.o @/home/nanogens/MT_Linux_Device_Drivers/Lec12/linux.mod 

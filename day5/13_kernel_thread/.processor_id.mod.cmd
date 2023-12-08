@@ -1,0 +1,1 @@
+cmd_/home/nanogens/MT_Linux_Device_Drivers/day5/13_kernel_thread/processor_id.mod := printf '%s\n'   processor_id.o | awk '!x[$$0]++ { print("/home/nanogens/MT_Linux_Device_Drivers/day5/13_kernel_thread/"$$0) }' > /home/nanogens/MT_Linux_Device_Drivers/day5/13_kernel_thread/processor_id.mod

@@ -1,0 +1,1 @@
+cmd_/home/nanogens/MT_Linux_Device_Drivers/day3/9_dumpstack/dump_stack.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/nanogens/MT_Linux_Device_Drivers/day3/9_dumpstack/dump_stack.ko /home/nanogens/MT_Linux_Device_Drivers/day3/9_dumpstack/dump_stack.o /home/nanogens/MT_Linux_Device_Drivers/day3/9_dumpstack/dump_stack.mod.o;  true

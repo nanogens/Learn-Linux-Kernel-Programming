@@ -1,0 +1,1 @@
+cmd_/home/nanogens/MT_Linux_Device_Drivers/day5/3_current/current.mod := printf '%s\n'   current.o | awk '!x[$$0]++ { print("/home/nanogens/MT_Linux_Device_Drivers/day5/3_current/"$$0) }' > /home/nanogens/MT_Linux_Device_Drivers/day5/3_current/current.mod
